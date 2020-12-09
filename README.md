@@ -1,3 +1,4 @@
+论文：Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection
 # Hit-Detector Code Base
 
 Implementation of our CVPR2020 paper [Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection](https://arxiv.org/pdf/2003.11818.pdf)
